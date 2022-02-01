@@ -2,7 +2,7 @@
 ## Hi there, I'm Fajar 👋
 
 - 🔭 I’m currently studying at Binus University majoring in Computer Science
-- ⚡ Fun fact: I can do all sports and love it.
+- ⚡ Fun fact: I can do all sports and i love it.
 
 ## Stats
 <h3>Github Stats</h3>
