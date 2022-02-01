@@ -1,10 +1,16 @@
-### Hi there 👋
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=fajartd02&theme=tokyonight&show_icons=true&hide_border=true" alt="Fajar's Github Stats"/>
+## Hi there, I'm Fajar 👋
 
 - 🔭 I’m currently studying at Binus University majoring in Computer Science
 - ⚡ Fun fact: I can do all sports and love it.
+
+## Stats
+<h3>Github Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=leonardo-lim&theme=great-gatsby&show_icons=true&hide_border=true" alt="Leonardo Lim's Github Stats">
+
+<h3>Most Used Languages</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-lim&theme=great-gatsby&layout=compact&hide_border=true" alt="Leonardo Lim's Most Used Languages">
+
  
 <!--
 
