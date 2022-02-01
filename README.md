@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=leonardo-lim&theme=great-gatsby&show_icons=true&hide_border=true" alt="Leonardo Lim's Github Stats">
 
 <h3>Most Used Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-lim&theme=great-gatsby&layout=compact&hide_border=true" alt="Leonardo Lim's Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajartd02&theme=great-gatsby&layout=compact&hide_border=true" alt="Leonardo Lim's Most Used Languages">
 
  
 <!--
