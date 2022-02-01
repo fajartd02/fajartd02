@@ -2,8 +2,11 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=fajartd02&theme=tokyonight&show_icons=true&hide_border=true" alt="Fajar's Github Stats"/>
+
+- 🔭 I’m currently studying at Binus University majoring in Computer Science
+- ⚡ Fun fact: I can do all sports and love it.
+ 
 <!--
-**MatthewCAlbert/MatthewCAlbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
