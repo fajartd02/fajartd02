@@ -6,7 +6,7 @@
 
 ## Stats
 <h3>Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=leonardo-lim&theme=great-gatsby&show_icons=true&hide_border=true" alt="Leonardo Lim's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=fajartd02&theme=tokyonight&show_icons=true&hide_border=true" alt="Fajar's Github Stats"/>
 
 <!--
 
