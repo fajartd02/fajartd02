@@ -1,5 +1,5 @@
 
-## Hi there, I'm Fajar 👋
+## Hello there, I'm Fajar 👋
 
 - 🔭 I’m currently studying at Binus University majoring in Computer Science
 - ⚡ Fun fact: I can do all sports and i love it.
