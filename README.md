@@ -5,8 +5,8 @@
 - ⚡ Fun fact: I can do all sports and i love it.
 
 ## Stats
-<h3>Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=fajartd02&theme=tokyonight&show_icons=true&hide_border=true" alt="Fajar's Github Stats"/>
+<h3>Github Public Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=fajartd02&theme=tokyonight&show_icons=true&hide_border=true" alt="Fajar's Github Public Stats"/>
 
 <!--
 
