@@ -11,7 +11,7 @@
 <!-- ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajartd02&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/fajartd02/github-readme-stats) -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
