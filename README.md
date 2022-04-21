@@ -1,8 +1,10 @@
 
 ## Hello there, I'm Fajar 👋
-
-- 🔭 I’m currently studying at Binus University majoring in Computer Science
-- ⚡ Fun fact: I can do all sports and i love it.
+A Person who is very ambitious in the IT field and has the vision to make progress in Indonesia to become more
+Advanced, especially in technology. Able to work well in a team with solid communication skills with proven experience
+in campus activities. Volunteering tech organization to lead, educate, and strive to improve the organization's quality
+<!-- - 🔭 I’m currently studying at Binus University majoring in Computer Science
+- ⚡ Fun fact: I can do all sports and i love it. -->
 
 ### Programming Language
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
