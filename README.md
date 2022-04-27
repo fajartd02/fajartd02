@@ -47,7 +47,7 @@ in campus activities. Volunteering tech organization to lead, educate, and striv
  
 # My Github Stats & Social Media
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fajartd02&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajartd02&layout=compact&theme=tokyonight&show_icons=true&hide=html,scss,css&hide_border=true&card_width=240)](https://github.com/matthewcalbert/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajartd02&layout=compact&theme=tokyonight&show_icons=true&hide=html,scss,css&hide_border=true&card_width=240)(https://github.com/fajartd02/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fajartd02.fajartd02)
 
