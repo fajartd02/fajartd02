@@ -68,6 +68,10 @@ in campus activities. Volunteering tech organization to lead, educate, and striv
 
 <!-- Here are some ideas to get you started: -->
 
+## More About Me
+- ⚡ Fun fact: I can do all sports and i love it.
+- 😄 Personalities: I'm a I/ENTJ 
+
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
