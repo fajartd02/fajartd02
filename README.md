@@ -6,6 +6,11 @@ in campus activities. Volunteering tech organization to lead, educate, and striv
 <!-- - 🔭 I’m currently studying at Binus University majoring in Computer Science
 - ⚡ Fun fact: I can do all sports and i love it. -->
 
+# 🏢 Experiences
+| Roles | Company | Duration |
+| --- | --- | --- |
+| Software Engineer Intern | [Mekari](https://mekari.com/) | May 2022 - Present|
+
 ### Programming Languages
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
