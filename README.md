@@ -9,7 +9,7 @@ in campus activities. Volunteering tech organization to lead, educate, and striv
 # 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
-| Software Engineer Intern | [Mekari](https://mekari.com/) | May 2022 - Present|
+| Software Engineer Intern | [Mekari](https://mekari.com/) | May 2022 - August 2022|
 
 ### Programming Languages
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
