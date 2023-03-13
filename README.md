@@ -9,6 +9,7 @@ in campus activities. Volunteering tech organization to lead, educate, and striv
 # 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
+| Software Engineer Intern | [Samsung R&D Institute](https://www.samsung.com/id/srin/) | March 2023 - Present|
 | Software Engineer Intern | [Mekari](https://mekari.com/) | May 2022 - August 2022|
 
 ### Programming Languages
