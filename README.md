@@ -1,9 +1,6 @@
 
 ## Hello there, I'm Fajar 👋
-A Person who is very ambitious in the IT field and has the vision to make progress in Indonesia to become more
-Advanced, especially in technology. Able to work well in a team with solid communication skills with proven experience
-in campus activities. Volunteering tech organization to lead, educate, and strive to improve the organization's quality
-<!-- - 🔭 I’m currently studying at Binus University majoring in Computer Science
+A person who envisions driving Indonesia towards technological progress, exhibits exceptional teamwork and communication skills, as demonstrated by his active participation in various campus activities. Additionally, he volunteers for tech organizations, where he leads and educates others while striving to improve the quality of the organization.
 - ⚡ Fun fact: I can do all sports and i love it. -->
 
 # 🏢 Experiences
