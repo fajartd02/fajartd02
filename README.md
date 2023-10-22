@@ -7,7 +7,7 @@ A person who envisions driving Indonesia towards technological progress, exhibit
 | Roles | Company | Duration |
 | --- | --- | --- |
 | Global Software Engineer Intern | [Samsung R&D Institute](https://www.samsung.com/id/srin/) | March 2023 - Present |
-| Software Engineer Part-Time | ![BINUS UNIVERSITY](https://binus.ac.id/) | Sep 2022 - Nov 2022 |
+| Software Engineer Part-Time | [Binus University](https://binus.ac.id/) | Sep 2022 - Nov 2022 |
 | Software Engineer Intern | [Mekari](https://mekari.com/) | May 2022 - August 2022 |
 
 ### Tech Languages
