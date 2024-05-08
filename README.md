@@ -6,7 +6,8 @@ A person who envisions driving Indonesia towards technological progress, exhibit
 # 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
-| Global Software Engineer Intern | [Samsung R&D Institute](https://www.samsung.com/id/srin/) | March 2023 - Present |
+| Software Engineer II | [Metapals](https://www.metapals.ai/) | Jan 2024 - Present |
+| Global Software Engineer Intern | [Samsung R&D Institute](https://www.samsung.com/id/srin/) | March 2023 - March 2024 |
 | Back End Developer Freelance | [Rakamin Academy](https://www.rakamin.com/) | November 2023 - Present |
 | Software Engineer Part-Time | [Binus University](https://binus.ac.id/) | Sep 2022 - Nov 2022 |
 | Software Engineer Intern | [Mekari](https://mekari.com/) | May 2022 - August 2022 |
