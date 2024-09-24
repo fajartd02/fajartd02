@@ -4,7 +4,7 @@ A person who envisions driving Indonesia towards technological progress, exhibit
 - ⚡ Fun fact: I can do all sports and i love it.
 
 # 🏢 Experiences
-| Roles | Company | Duration |
+| Roles | Company | Time |
 | --- | --- | --- |
 | Software Engineer II | [MetaPals](https://www.metapals.ai/) | Jan 2024 - Present |
 | Global Software Engineer Intern | [Samsung R&D Institute](https://www.samsung.com/id/srin/) | March 2023 - March 2024 |
