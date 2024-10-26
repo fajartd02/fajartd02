@@ -1,6 +1,5 @@
 
 ## Hello there, I'm Fajar 👋
-A person who envisions driving Indonesia towards technological progress, exhibits exceptional teamwork and communication skills, as demonstrated by his active participation in various campus activities. Additionally, he volunteers for tech organizations, where he leads and educates others while striving to improve the quality of the organization.
 - ⚡ Fun fact: I can do all sports and i love it.
 
 # 🏢 Experiences
