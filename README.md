@@ -12,6 +12,7 @@
 | Software Engineer Part-Time | [Binus University](https://binus.ac.id/) | 2022 | Indonesia |
 | Software Engineer Intern | [Mekari](https://mekari.com/) | May 2022 - August 2022 | Indonesia |
 
+<!-- Command first, update later
 ### Tech Languages
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -60,6 +61,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+-->
  
 # My Github Stats & Social Media
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fajartd02&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs)
