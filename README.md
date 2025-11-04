@@ -5,8 +5,8 @@
 # 🏢 Experiences
 | Roles | Company | Time | Location |
 | --- | --- | --- | --- |
-| Software and AI Engineer | [Money Forward, Inc.](https://moneyforward.com/) | Nov 2024 - Present | Japan |
-| Software Engineer II | [Kindred, MetaPals](https://www.kindredlabs.ai/) | Jan 2024 - Oct 2024 | Singapore |
+| Software and AI Engineer II | [Money Forward, Inc.](https://moneyforward.com/) | Nov 2024 - Present | Japan |
+| Software Engineer III | [Kindred, MetaPals](https://www.kindredlabs.ai/) | Jan 2024 - Oct 2024 | Singapore |
 | Global Software Engineer Intern | [Samsung R&D Institute](https://www.samsung.com/id/srin/) | March 2023 - March 2024 | Indonesia |
 | Back End Developer Freelance | [Rakamin Academy](https://www.rakamin.com/) | 2023 | Indonesia |
 | Software Engineer Part-Time | [Binus University](https://binus.ac.id/) | 2022 | Indonesia |
